@@ -53,7 +53,7 @@ const Intro: FC = () => {
             strings: [
               "I'm a Developer",
               "I'm a Web3 Enthusiast",
-              "I'm a Stock Trader",
+              "I'm a Trader",
             ],
           }}
         />

@@ -5,7 +5,7 @@ const Experience = () => {
         <div className='flex flex-col items-center justify-center'>
             <h1 data-scroll data-scroll-direction="horizontal" data-scroll-speed="-1" className="text-center text-4xl mb-20 md:mb-8">Experience</h1>
             <div
-                className="block sm:w-3/4 md:w-[75%] pb-6 pt-3 px-6 border justify-center border-gray-200 rounded-lg shadow md:text-center mb-20"
+                className="block sm:w-3/4 md:w-[90%] pb-6 pt-3 px-6 border justify-center border-gray-200 rounded-lg shadow md:text-center mb-20"
             >
                 <div className="flex flex-col md:flex-row items-center justify-between text-center md:text-start">
                     <h5 className="text-2xl font-bold">
