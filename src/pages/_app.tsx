@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           type="image/x-icon"
         />
 
-        <title>{`Atharva Portfolio`}</title>
+        <title>{`Atharva's Portfolio`}</title>
 
         <meta name="title" content="Atharva's Portfolio" />
         <meta name="description" content="Atharva's Portfolio" />
