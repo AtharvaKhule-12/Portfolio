@@ -26,18 +26,15 @@ const Experience = () => {
             className="text-white text-center md:text-start  text-[18px]"
           >
             <li>
-              Successfully led the end-to-end development of Suprrlink’s brand
-              website, employing Next.js to deliver a highly performant and
-              responsive user experience.
+               Collaborated and successfully led the end-to-end development of Suprrlink’s brand website, employing
+Next.js to deliver a highly performant and responsive user experience.
             </li>
             <li>
-              Designed and implemented the admin dashboard, utilizing real-time
-              data updates to efficiently track and display the growth of brands
-              and creators on the platform.
+               Designed and implemented the admin dashboard, utilizing real-time data updates to display 30+ business
+metrics to efficiently track the growth of brands and creators on the platform.
             </li>
             <li>
-              Integrated APIs to fetch and display dynamic data on the admin
-              dashboard, enabling instant access to crucial business metrics.
+               Integrated Redux for state management, optimzing application peroformance and reducing load time 47%.
             </li>
           </ul>
         </div>
@@ -51,14 +48,22 @@ const Experience = () => {
           <p className="font-normal text-2xl py-4">Jan 2023 - Present</p>
         </div>
         <div>
-          <p className="text-white text-center md:text-start  text-[18px]">
-            As a Co-Lead, I am responsible for working on the development of
-            websites and web applications using Next.js. I was responsible for
-            designing, building, and testing new features, as well as
-            maintaining and improving existing code. In addition to my technical
-            skills, I also developed strong communication and teamwork skills as
-            a co-lead.
-          </p>
+          <ul
+            style={{ listStyle: "disc", padding: "0rem 1rem" }}
+            className="text-white text-center md:text-start  text-[18px]"
+          >
+            <li>
+                Co-led a team of 10 full-stack developers in organizing and conducting technical workshops and hackathons,
+resulting in increased participation and engagement.
+            </li>
+            <li>
+               Organized and mentored 200+ junior developers, helping them to grow their skills and knowledge.
+            </li>
+            <li>
+                Collaborated with industry experts to bring in guest speakers and conduct workshops, enriching the learning
+experience for club members.
+            </li>
+          </ul>
         </div>
       </div>
     </div>
