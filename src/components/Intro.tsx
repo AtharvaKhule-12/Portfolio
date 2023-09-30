@@ -52,8 +52,7 @@ const Intro: FC = () => {
             delay: 40,
             strings: [
               "I'm a Developer",
-              "I'm a Web3 Enthusiast",
-              "I'm a Trader",
+              "I'm a Trader"
             ],
           }}
         />
