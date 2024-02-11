@@ -25,7 +25,7 @@ const Who: FC = () => {
           coding, I also like finance, listening to music and playing video games.
         </p>
         <div className="my-4">
-        <a href="https://drive.google.com/file/d/1WEQ1K7O5-QJIHEMOZo02nE5aUXDux-SR/view?usp=share_link" className="p-2 text-buttonText bg-gray-600 rounded-md hover:bg-gray-400 focus:ring-0 active:bg-gray-400 active:shadow-lg transition duration-150 ease-in-out" target="_blank">Download CV</a></div>
+        <a href="https://bit.ly/atharvakhuleresume" className="p-2 text-buttonText bg-gray-600 rounded-md hover:bg-gray-400 focus:ring-0 active:bg-gray-400 active:shadow-lg transition duration-150 ease-in-out" target="_blank">Download CV</a></div>
       </div>
     </div>
   );
